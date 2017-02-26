@@ -12,4 +12,4 @@ Simple demo of interactive sonic system that is controlled by [LEAP motion contr
 * [ChucK](http://chuck.cs.princeton.edu/) (w/ STK)
 
 ## License
-MIT
+GPLv3
